@@ -1,7 +1,7 @@
 # StudentAdmissionSQLiteApp(Assignment-13)
-### Created By Vadsak Princy Hareshbhai  On 10 July 2021
+### Created By Vadsak Princy Hareshbhai  On 17 July 2021
 
-#  StudentAdmissionCoreDataApp Application Using SQLite
+#  StudentAdmissionSQLiteApp Application Using SQLite
 In this application we use the SQLite for the manage of student data.we can store data,fetch data,upadte data and remove the data from it
 
 if user login as admin and enter the user name and password and its not match with actual username and password then its give the alert for mismatch and the password and username is correct then going to the admin panel in this 3 button available first for add student,second for notice and third for logout.
@@ -46,11 +46,11 @@ if student click on logout then user go to the first page of the application.and
                      *  Read NoticeBoard
 
 
-# Gif Of StudentAdmissionCoreDataApp Application 
+# Gif Of StudentAdmissionSQLiteApp Application 
 
 ![GifOfStufdentAdmissionSQLiteApp](https://user-images.githubusercontent.com/81640415/126044234-5130559f-b4f2-45bb-82ca-ad61986f645a.gif)
 
 
-# Screenshots Of StudentAdmissionCoreDataApp Application 
+# Screenshots Of StudentAdmissionSQLiteApp Application 
 
 
