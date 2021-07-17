@@ -93,40 +93,22 @@ if student click on logout then user go to the first page of the application.and
 
 ![20](https://user-images.githubusercontent.com/81640415/126045143-e4d0a252-5082-486e-ad11-3f2419d03d2d.png)
 
-![20-1](https://user-images.githubusercontent.com/81640415/126045144-9290a4cc-d231-4a42-ac0a-75f03db48a32.png)
-
 ![20-1-1](https://user-images.githubusercontent.com/81640415/126045146-c8206632-ac3c-471d-8766-99fb1fc57b38.png)
 
 ![20-1-2](https://user-images.githubusercontent.com/81640415/126045148-814b704f-b42b-4d48-a9eb-d35ef57d478f.png)
 
-![20-2](https://user-images.githubusercontent.com/81640415/126045150-afe41720-0587-4700-9e74-bfc1a7923f5a.png)
-
-![20-3](https://user-images.githubusercontent.com/81640415/126045153-3176dbe9-8b72-4be5-aea8-3b1b5415e3da.png)
-
 ![21](https://user-images.githubusercontent.com/81640415/126045154-fbef94c7-8b46-4530-9fb8-7f681e6e4237.png)
-
-![21-1](https://user-images.githubusercontent.com/81640415/126045157-35367bd6-19cf-4768-b8ab-1c0e306226af.png)
 
 ![22](https://user-images.githubusercontent.com/81640415/126045159-c013856a-37f7-45b4-9b03-f07bc3b0cf90.png)
 
 ![23](https://user-images.githubusercontent.com/81640415/126045077-552c2101-4c76-4adc-a632-39d99ee082c2.png)
 
-![23-1](https://user-images.githubusercontent.com/81640415/126045080-ce5f8999-2011-4fe6-bb5d-1a459e0d56cb.png)
-
 ![24](https://user-images.githubusercontent.com/81640415/126045081-d0e9ae39-708a-4d64-8d60-96fa6598d74e.png)
 
-![24-1](https://user-images.githubusercontent.com/81640415/126045086-211ad4b5-8985-4f5b-a895-6a56996e8a01.png)
-
 ![25](https://user-images.githubusercontent.com/81640415/126045087-8d71926d-b57a-4c96-acb4-53cc0ea76fd2.png)
-
-![25-1](https://user-images.githubusercontent.com/81640415/126045089-bdfc6677-1202-46c4-bd02-ac438c14750a.png)
 
 ![26](https://user-images.githubusercontent.com/81640415/126045090-b0c90e6a-3bb9-455d-8385-f3b49c164c09.png)
 
 ![27](https://user-images.githubusercontent.com/81640415/126045092-e156ddd5-eed9-4548-9258-030ced4412d8.png)
 
 ![28](https://user-images.githubusercontent.com/81640415/126045094-fd3ab03f-e748-4b75-a5c3-8c552c31e3fb.png)
-
-![28-1](https://user-images.githubusercontent.com/81640415/126045096-15695502-1578-4a68-8b4a-ce46e4b31c3a.png)
-
-![28-2](https://user-images.githubusercontent.com/81640415/126045099-09ed284c-e85d-4743-9e5d-1ce8109d8561.png)
