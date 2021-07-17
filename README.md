@@ -23,8 +23,7 @@ if user login as student and enter the user name and password and its not match 
 
 # Gif Of StudentAdmissionCoreDataApp Application 
 
-![gifofstudentadmissionsqliteapp](https://user-images.githubusercontent.com/81640415/126043300-4245a463-5600-4584-b2fd-71bd87c71f5c.gif)
-
+![GifOfStufdentAdmissionSQLiteApp](https://user-images.githubusercontent.com/81640415/126044234-5130559f-b4f2-45bb-82ca-ad61986f645a.gif)
 
 
 # Screenshots Of StudentAdmissionCoreDataApp Application 
