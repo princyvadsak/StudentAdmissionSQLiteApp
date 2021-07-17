@@ -1,4 +1,4 @@
-# StudentAdmissionSQLiteApp(Assignment-14)
+# StudentAdmissionSQLiteApp(Assignment-13)
 ### Created By Vadsak Princy Hareshbhai  On 10 July 2021
 
 #  StudentAdmissionCoreDataApp Application Using Core Date
@@ -23,6 +23,7 @@ if user login as student and enter the user name and password and its not match 
 
 # Gif Of StudentAdmissionCoreDataApp Application 
 
+![gifofstudentadmissionsqliteapp](https://user-images.githubusercontent.com/81640415/126043300-4245a463-5600-4584-b2fd-71bd87c71f5c.gif)
 
 
 
