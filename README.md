@@ -32,18 +32,18 @@ if student click on logout then user go to the first page of the application.and
 * Admin Login / Logout (with UserDefaults)
 * Student Login / Logout (with UserDefaults)
 * Admin can:
-                     *  Login
-                     *  Add new student (giving a unique spid)
-                     *  Fetch all students data
-                     *  Fetch students data from a particular class
-                     *  Modify existing student details
-                     *  Remove a student
-                     *  Update NoticeBoard
+                     -  Login
+                     -  Add new student (giving a unique spid)
+                     -  Fetch all students data
+                     -  Fetch students data from a particular class
+                     -  Modify existing student details
+                     -  Remove a student
+                     -  Update NoticeBoard
 * Students can:                       
-                     *  Login ( default id password will be his/her spid )
-                     *  View his/her details
-                     *  Change password
-                     *  Read NoticeBoard
+                     -  Login ( default id password will be his/her spid )
+                     -  View his/her details
+                     -  Change password
+                     -  Read NoticeBoard
 
 
 # Gif Of StudentAdmissionSQLiteApp Application 
