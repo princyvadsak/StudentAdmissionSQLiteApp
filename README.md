@@ -47,8 +47,11 @@ if student click on logout then user go to the first page of the application.and
                      -  Update NoticeBoard
 * Students can:                       
                      -  Login ( default id password will be his/her spid )
+
                      -  View his/her details
+
                      -  Change password
+
                      -  Read NoticeBoard
 
 
